@@ -7,7 +7,7 @@ function maiorMenor(){
         if (num < menor) {
           menor = num;
         }
-        else if(num > maior){
+        if(num > maior){
           maior = num;
         }
       })
