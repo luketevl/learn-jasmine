@@ -65,5 +65,5 @@ beforEach(function(){
   - Faz o teste
   - Teste falha
   - Implementa o código o _mais simples_ possível para que ele **passe**, campos na mão
-  - *REFATORAR**
+  - **REFATORAR**
 - **TDD**, organiza o raciocionio, sai mais testes
